@@ -91,7 +91,3 @@ This data analytics project explores music trends and patterns using Spotify's e
 - **Market Analysis**: Tracking evolving listener preferences
 - **A&R Decisions**: Data-driven artist signing and development
 
-pip install -r requirements.txt
-
-# Run the analysis
-jupyter notebook spotify_analysis.ipynb
